@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/resume_AS/static/css/main.4bd79f75.css",
+    "main.js": "/resume_AS/static/js/main.a9685238.js",
+    "static/js/453.f19e9853.chunk.js": "/resume_AS/static/js/453.f19e9853.chunk.js",
+    "static/media/meow.jpg": "/resume_AS/static/media/meow.06a1be71fcea1b255a31.jpg",
+    "static/media/mumbaiuniversity.webp": "/resume_AS/static/media/mumbaiuniversity.ef2b3045eccc6e754db6.webp",
+    "static/media/bombayflyingclub.webp": "/resume_AS/static/media/bombayflyingclub.723f4c82a54277acfbc4.webp",
+    "static/media/mecheng.webp": "/resume_AS/static/media/mecheng.563365581a8c2c85aaab.webp",
+    "index.html": "/resume_AS/index.html",
+    "main.4bd79f75.css.map": "/resume_AS/static/css/main.4bd79f75.css.map",
+    "main.a9685238.js.map": "/resume_AS/static/js/main.a9685238.js.map",
+    "453.f19e9853.chunk.js.map": "/resume_AS/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd79f75.css",
+    "static/js/main.a9685238.js"
+  ]
+}
