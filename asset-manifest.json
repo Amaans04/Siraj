@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Siraj/static/css/main.4bd79f75.css",
+    "main.js": "/Siraj/static/js/main.a78bdce6.js",
+    "static/js/453.f19e9853.chunk.js": "/Siraj/static/js/453.f19e9853.chunk.js",
+    "static/media/meow.jpg": "/Siraj/static/media/meow.06a1be71fcea1b255a31.jpg",
+    "static/media/mumbaiuniversity.webp": "/Siraj/static/media/mumbaiuniversity.ef2b3045eccc6e754db6.webp",
+    "static/media/bombayflyingclub.webp": "/Siraj/static/media/bombayflyingclub.723f4c82a54277acfbc4.webp",
+    "static/media/mecheng.webp": "/Siraj/static/media/mecheng.563365581a8c2c85aaab.webp",
+    "index.html": "/Siraj/index.html",
+    "main.4bd79f75.css.map": "/Siraj/static/css/main.4bd79f75.css.map",
+    "main.a78bdce6.js.map": "/Siraj/static/js/main.a78bdce6.js.map",
+    "453.f19e9853.chunk.js.map": "/Siraj/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd79f75.css",
+    "static/js/main.a78bdce6.js"
+  ]
+}
